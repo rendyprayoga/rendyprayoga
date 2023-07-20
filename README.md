@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on website
+Front-end Web Dev 
 
 
 ## 🌐 Socials:
