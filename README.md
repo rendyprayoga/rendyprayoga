@@ -1,5 +1,7 @@
 # 💫 About Me:
-Front-end Web Dev 
+I am a Informatics engineering student from the Sumatera Institute of Technology specializing in web development and mobile
+development. I am experienced in utilizing various programming languages, frameworks, and libraries to develop systems. I am
+committed to continuously training and improving my skills to enhance my capabilities.
 
 
 ## 🌐 Socials:
