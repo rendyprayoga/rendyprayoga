@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Informatics engineering student from the Sumatera Institute of Technology specializing in web development. I am experienced in utilizing various programming languages, frameworks, and libraries to develop systems. I am
-committed to continuously training and improving my skills to enhance my capabilities.
+I am an informatics engineering student at Institut Teknologi Sumatera, I have an interest in Front-End Web development. I have experience in using various programming languages, frameworks, and libraries in developing systems. I am committed to continue practicing and improving my skills to enhance my abilities. Currently, I am heading towards the final trial stage for my bachelor's degree.
 
 
 ## 🌐 Socials:
