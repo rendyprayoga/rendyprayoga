@@ -2,7 +2,6 @@
 
 > 💻 Fullstack Developer | 🚀 React.js & Next.js Enthusiast | 🐍 Python Lover
 
-![Profile Views](https://visitcount.itsvg.in/api?id=rendyprayoga&icon=0&color=6)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--01%2014%3A30%3A00-brightgreen)
 
 ## 💫 About Me
@@ -20,7 +19,7 @@ I'm an Informatics Engineering graduate from Institut Teknologi Sumatera with **
 | Role | Company | Period |
 |------|---------|---------|
 | Fullstack Developer | PT. Ebdesk Teknologi | May 2026 - Present |
-| Frontend Developer | Freelance (Tring App) | 2024 - Present |
+| Frontend Developer | Freelance (Tring App) | Mar 2026 - Present |
 | Frontend Web Developer | PT. Ebdesk Teknologi | Oct 2024 - May 2026 |
 | Frontend Web Intern | PT. Evolusi Teknologi Solusi | Jun 2023 - Jul 2023 |
 
