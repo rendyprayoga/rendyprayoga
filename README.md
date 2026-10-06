@@ -18,7 +18,8 @@ I'm an Informatics Engineering graduate from Institut Teknologi Sumatera with **
 
 | Role | Company | Period |
 |------|---------|---------|
-| Fullstack Developer | PT. Ebdesk Teknologi | May 2026 - Present |
+| Software Engineer | PT. Star Perkasa Technology | Oct 2026 - Present |
+| Fullstack Developer | PT. Ebdesk Teknologi | May 2026 - Sep 2026 |
 | Frontend Developer | Freelance (Tring App) | Mar 2026 - Present |
 | Frontend Web Developer | PT. Ebdesk Teknologi | Oct 2024 - May 2026 |
 | Frontend Web Intern | PT. Evolusi Teknologi Solusi | Jun 2023 - Jul 2023 |
